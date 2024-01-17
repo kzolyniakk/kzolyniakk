@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Karol
+I am mechatronics graduate, specialties: computer science and robotics. I'm focused on continuous development.
 
-<!--
-**kzolyniakk/kzolyniakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Manual Tests (E2E) / Automation Tests (E2E Cypress) / JS / HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on developing my skills by writing and performing amateur test cases for a random website: https://pachnacykociolek.pl/. The next steps will be: creating error reports and test automation in cypress 
+- 🌱 I’m currently learning E2E testining in cypress and API testing 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kzolyniakk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/karol-%C5%BCo%C5%82yniak-525203294//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzolyniakk)](https://github.com/anuraghazra/github-readme-stats)
+
+
