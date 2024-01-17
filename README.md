@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Karol
-I am mechatronics graduate, specialties: computer science and robotics. I'm focused on continuous development.
+I am a graduate in mechatronics graduate, specialties: computer science and robotics. I'm focused on continuous development.
 
 Skills: Manual Tests (E2E) / Automation Tests (E2E Cypress) / JS / HTML / CSS
 
